@@ -1,0 +1,56 @@
+﻿[
+  {
+    "Id": 1,
+    "ContactName": "JohnDoe123",
+    "Alias": "Johnny",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "DateOfBirth": "1990-05-15T00:00:00",
+    "Emails": [
+      {
+        "Id": 1,
+        "Type": 0,
+        "EmailAddress": "john.doe@example.com"
+      },
+      {
+        "Id": 2,
+        "Type": 1,
+        "EmailAddress": "john.doe@company.com"
+      }
+    ],
+    "Phones": [
+      {
+        "Id": 1,
+        "Type": 0,
+        "PhoneNumber": "+1234567890"
+      },
+      {
+        "Id": 2,
+        "Type": 1,
+        "PhoneNumber": "+0987654321"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "ContactName": "JaneSmith456",
+    "Alias": "Janey",
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "DateOfBirth": "1985-12-03T00:00:00",
+    "Emails": [
+      {
+        "Id": 3,
+        "Type": 0,
+        "EmailAddress": "jane.smith@example.com"
+      }
+    ],
+    "Phones": [
+      {
+        "Id": 3,
+        "Type": 0,
+        "PhoneNumber": "+1122334455"
+      }
+    ]
+  }
+]
